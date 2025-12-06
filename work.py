@@ -11,3 +11,4 @@ img = qr.make_image()
 img.save(file_path )
 
 print("the qr code is created")
+
